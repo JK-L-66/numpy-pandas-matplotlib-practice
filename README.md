@@ -1,15 +1,15 @@
-# numpy-pandas-matplotlib-practice
-Python Data Analysis Fundamentals: NumPy, Pandas, Matplotlib, Seaborn &amp; Practical Projects.
-Course Outline
-- **Part 1: NumPy**
-  - Array creation, properties, indexing, slicing
-  - Data types, mathematical functions, statistics
-- **Part 2: Pandas**
-  - Series and DataFrame creation & manipulation
-  - Data cleaning (handling missing values, type conversion)
-  - Data grouping, aggregation, and time series analysis
-- **Part 3: Data Visualization**
-  - Matplotlib (line, bar, pie, scatter, box plots)
-  - Seaborn basics
-- **Part 4: Real-world Projects**
-  - Project: House Price Analysis (data cleaning, feature engineering)
+# NumPy, Pandas, Matplotlib & Seaborn Practice
+
+🔥 Python Data Analysis Fundamentals
+
+This repository contains a series of Jupyter Notebooks that walk through the foundational libraries for data analysis in Python, including NumPy, Pandas, and Data Visualization. It culminates in a real-world housing price analysis project.
+
+---
+
+## 📂 Project Structure
+
+- `01_numpy_basics.ipynb` - Core NumPy: Arrays, slicing, indexing, data types, and mathematical operations.
+- `02_pandas_basics.ipynb` & `03_DataFrame_basics.ipynb` - Pandas fundamentals: `Series`, `DataFrame` creation, and basic manipulation.
+- `04_DataAnalysis_basics.ipynb` - Advanced Pandas: Data cleaning (missing values), type conversion, grouping, aggregation.
+- `05_matplotlib_basics.ipynb` & `06_seaborn_basics.ipynb` - Data visualization fundamentals with Matplotlib and Seaborn.
+- `07_practise.ipynb` - **Final Project**: Comprehensive analysis of a house sales dataset, covering data cleaning, feature engineering, and EDA.
